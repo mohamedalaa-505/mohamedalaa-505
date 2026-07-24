@@ -18,6 +18,8 @@
 - 🎓 Final-year **AI/ML Engineering** student at **Zagazig University**, Faculty of Computers and Informatics (Expected: June 2027)
 - 🔭 Currently building a **Smart Interview System** — a real-time multimodal interview assessment platform combining ASR, prosody analysis, computer vision, and LLM-based evaluation
 - 🧠 Focused on **NLP Engineering**, speech/prosody modeling, and applied deep learning
+- 🌍 Actively pursuing AI Engineering roles in **Germany/EU**, **Canada**, and **Saudi Arabia**
+
 
 ---
 
@@ -32,6 +34,7 @@ Real-time multimodal interview assessment platform combining Whisper ASR, wav2ve
 **📖 YLF AI Platform**
 Production RAG-based tutoring system deployed on Hugging Face Spaces.
 - Stack: FastAPI, LLaMA 3.3 70B (Groq), ChromaDB/FAISS, LangChain, SentenceTransformers, Docker
+
 
 **📊 Other Projects**
 - XGBoost income classifier deployed via Streamlit
@@ -83,12 +86,12 @@ Streamlit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedalaa-505&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalaa-505" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedalaa-505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalaa-505&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalaa-505&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedalaa-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -96,8 +99,8 @@ Streamlit
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-alaa-6944642b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="alaa.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mohamedalaa-505"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
