@@ -55,7 +55,7 @@ Production RAG-based tutoring system deployed on Hugging Face Spaces.
 
 **NLP / Speech / CV**
 ![Whisper](https://img.shields.io/badge/Whisper-ASR-412991?style=flat)
-LangChain · SentenceTransformers · Librosa · Parselmouth · OpenCV · MediaPipe
+LangChain · SentenceTransformers · Librosa · OpenCV · MediaPipe
 
 **LLM / RAG**
 LLaMA 3.3 70B (Groq) · ChromaDB · FAISS · RAG pipelines
