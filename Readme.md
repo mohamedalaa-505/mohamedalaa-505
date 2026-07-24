@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">AI/ML Engineer in the making — building systems that understand speech, vision, and language</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Speech%20%7C%20CV-blue" />
-  <img src="https://img.shields.io/badge/Status-Final--Year%20Student-informational" />
-  <img src="https://img.shields.io/badge/Location-Egypt-green" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedalaa-505&style=flat&color=blue" alt="Profile views" />
-</p>
+<h3 align="center">AI/ML Engineer </h3>
 
 ---
 
