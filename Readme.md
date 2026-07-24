@@ -83,19 +83,6 @@ Streamlit
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedalaa-505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalaa-505&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedalaa-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
