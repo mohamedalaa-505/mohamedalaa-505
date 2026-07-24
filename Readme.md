@@ -18,7 +18,6 @@
 - 🎓 Final-year **AI/ML Engineering** student at **Zagazig University**, Faculty of Computers and Informatics (Expected: June 2027)
 - 🔭 Currently building a **Smart Interview System** — a real-time multimodal interview assessment platform combining ASR, prosody analysis, computer vision, and LLM-based evaluation
 - 🧠 Focused on **NLP Engineering**, speech/prosody modeling, and applied deep learning
-- 🌍 Actively pursuing AI Engineering roles in **Germany/EU**, **Canada**, and **Saudi Arabia**
 
 
 ---
