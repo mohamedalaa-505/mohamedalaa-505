@@ -1,81 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">AI/ML Engineer </h3>
+# Hi, I'm Mohamed Alaa 👋
+
+**AI Engineer · NLP · MLOps**
+
+🎓 B.Sc. in Artificial Intelligence, Zagazig University (Faculty of Computers and Informatics) — Expected June 2027
+📍 Sharkia, Egypt
+
+📫 alaa.ai.engineer@gmail.com | [LinkedIn](#) | [GitHub](#)
 
 ---
 
-### 🎯 About Me
+## 🚀 About Me
 
-- 🎓 Final-year **AI/ML Engineering** student at **Zagazig University**, Faculty of Computers and Informatics (Expected: June 2027)
-- 🔭 Currently building a **Smart Interview System** — a real-time multimodal interview assessment platform combining ASR, prosody analysis, computer vision, and LLM-based evaluation
-- 🧠 Focused on **NLP Engineering**, speech/prosody modeling, and applied deep learning
+I'm an AI/ML engineering student focused on building end-to-end systems — from RAG pipelines and fine-tuned transformers to containerized inference services. I like taking projects from prototype to deployment: FastAPI backends, Docker, and CI/CD included.
 
+## 🛠️ Featured Projects
 
----
+### 🧠 [YLF AI Platform](#) — AI Engineer & Backend Developer
+Multi-modal AI tutoring platform — University Competition Finalist (3-person team)
+- Built an end-to-end RAG pipeline over 100+ PDF documents using ChromaDB + FAISS hybrid retrieval, improving answer relevance by ~30% over keyword-only search
+- Designed a 4-mode prompt engineering layer (ELI5, Socratic, Task Chunker, Career Path) wrapping LLaMA-3.3-70B via Groq, with average response latency under 2 seconds
+- Deployed the full Docker-based stack to Hugging Face Spaces; managed CI/CD via Git branching across the team
+- **Stack:** Python · FastAPI · LangChain · ChromaDB · FAISS · Docker · Groq
 
-### 🚀 Featured Projects
+### 🤖 [AI Request Dispatcher](#) — ML / Backend Engineer
+Personal project — intent classification and routing service
+- Fine-tuned a DistilBERT classifier to route user instructions into 5 intent categories (Q&A, classification, summarization, brainstorming, creative writing), with class-weighted loss and partial layer freezing
+- Built a FastAPI inference service with real-time predictions, confidence scores, and a health-check endpoint for container orchestration
+- Containerized with Docker and automated testing/builds via GitHub Actions CI, with deploy-ready configs for Cloud Run, Fly.io, Render, and Hugging Face Spaces
+- **Stack:** Python · PyTorch · Hugging Face Transformers · FastAPI · Docker · GitHub Actions
 
-**🎤 Smart Interview System** *(Graduation Project — In Progress)*
-Real-time multimodal interview assessment platform combining Whisper ASR, wav2vec2/WavLM prosody analysis, MediaPipe computer vision, and LLaMA 3.3 70B (via Groq) for RAG-grounded evaluation.
-- Built the **Voice Scoring pipeline** using Parselmouth, Librosa, and `audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim` for arousal/dominance/valence scoring
-- Consolidated RAVDESS, CREMA-D, SAVEE, and TESS datasets into unified metadata for model evaluation
-- Leading the **Multimodal Fusion Model** integrating voice, vision, and language signals
+### ✈️ UAV Object Tracking — Computer Vision Engineer
+ICMTC-AIC-26 National Competition — Ranked 25th of 85 teams
+- Built and fine-tuned a MixFormerV2-based single-object tracking pipeline, achieving 0.83–0.91 AUC on training sequences
+- Diagnosed and resolved catastrophic forgetting during fine-tuning by freezing the backbone, stabilizing tracking on the target domain
+- **Stack:** Python · PyTorch · MixFormerV2 · OpenCV
 
-**📖 YLF AI Platform**
-Production RAG-based tutoring system deployed on Hugging Face Spaces.
-- Stack: FastAPI, LLaMA 3.3 70B (Groq), ChromaDB/FAISS, LangChain, SentenceTransformers, Docker
+## 🧰 Skills
 
+**Languages:** Python, SQL, Java, C++
+**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, Fine-tuning, RAG, Ollama
+**CV:** OpenCV, Object Tracking & Detection
+**Backend/Infra:** FastAPI, Streamlit, Git, Docker, Hugging Face Spaces, GitHub Actions
 
-**📊 Other Projects**
-- XGBoost income classifier deployed via Streamlit
-- PCA + K-Means customer segmentation on the Arvato/AZDIAS German demographic dataset
+## 📜 Certifications
 
----
+- Deep Learning Specialization — DeepLearning.AI (Jul 2026)
+- Machine Learning Specialization — DeepLearning.AI (Feb 2026)
+- Machine Learning — National Telecommunication Institute (NTI) (Jul–Aug 2025)
+- Computer Vision — Information Technology Institute (ITI) (Jul–Aug 2025)
+- Finalist — YLF AI University Competition
 
-### 🛠️ Tech Stack
+## 🌱 Extracurricular
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**ML / DL Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-**NLP / Speech / CV**
-![Whisper](https://img.shields.io/badge/Whisper-ASR-412991?style=flat)
-LangChain · SentenceTransformers · Librosa · OpenCV · MediaPipe
-
-**LLM / RAG**
-LLaMA 3.3 70B (Groq) · ChromaDB · FAISS · RAG pipelines
-
-**Tools & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-Streamlit
+**AI Track Volunteer, IEEE Zagazig Student Branch** (Nov 2025 – Sep 2026)
+- Delivered 3+ technical presentations on ML/DL topics to peer audiences of 20+ students
+- Attended 10+ hands-on workshops on ML, DL, and applied AI
+- Selected for the branch's Leadership Development Program
 
 ---
 
-### 📜 Certifications & Training
-
-- Machine Learning Specialization — DeepLearning.AI / Stanford (Andrew Ng)
-- Deep Learning Specialization — DeepLearning.AI (Andrew Ng)
-- NTI Machine Learning Traineeship
-- ITI Computer Vision Traineeship (120h) — Python, OpenCV, ML for CV
-
----
-
-### 🤝 Community
-
-- IEEE Zagazig Student Branch — AI Track Volunteer
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-alaa-6944642b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alaa.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mohamedalaa-505"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+🗣️ **Languages:** Arabic (Native), English (Fluent)
