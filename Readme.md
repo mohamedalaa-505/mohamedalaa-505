@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Alaa 👋
+# Hi, I'm Mohamed Alaa
 
 **AI Engineer · NLP · MLOps**
 
